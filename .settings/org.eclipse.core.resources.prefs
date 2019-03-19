@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/org/gecedu/controller/GoodsTypeServlet.java=UTF-8
+encoding//src/org/gecedu/controller/UserServlet.java=UTF-8
+encoding//src/org/gecedu/dao/impl/UserDaoImpl.java=UTF-8
+encoding//src/org/gecedu/utils/JdbcUtils.java=UTF-8
+encoding/<project>=UTF-8
